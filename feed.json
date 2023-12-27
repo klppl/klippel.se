@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://alexander.micro.blog/2023/12/27/dumb-money-delivers.html",
+				
+				"content_html": "<p>🍿<a href=\"https://www.imdb.com/title/tt13957560/\">Dumb money</a> 🍺🍺🍺🍺🥛\nDelivers an entertaining blend of wit and financial intrigue. 4 out of 5 beers.</p>\n",
+				"content_text": "🍿[Dumb money](https://www.imdb.com/title/tt13957560/) 🍺🍺🍺🍺🥛\r\nDelivers an entertaining blend of wit and financial intrigue. 4 out of 5 beers.\n",
+				"date_published": "2023-12-27T20:59:29+01:00",
+				"url": "https://klippel.se/2023/12/27/dumb-money-delivers.html"
+			},
+			{
+				"id": "http://alexander.micro.blog/2023/12/22/running-websites-as.html",
+				"title": "Running Websites as Apps in Linux with Any Browser",
+				"content_html": "<p>Have you ever wondered how to run websites as standalone apps in Linux? I recently discovered a fantastic application for this purpose: <a href=\"http://packages.linuxmint.com/pool/main/w/webapp-manager/\">Webapp Manager</a>.</p>\n<p>This app is a game-changer. It&rsquo;s incredibly user-friendly and everything works seamlessly right from the start.</p>\n<p>Here&rsquo;s how you can get started:</p>\n<ol>\n<li>Download the <a href=\"http://packages.linuxmint.com/pool/main/w/webapp-manager/\">.deb file</a>.</li>\n<li>Run the command <code>sudo dpkg -i webapp_manager*.deb</code> in your terminal.</li>\n<li>Open &ldquo;Web apps&rdquo; and create your new app.</li>\n</ol>\n<p>And voilà! It&rsquo;s that simple. Webapp Manager makes the process effortless and everything just works perfectly out of the box.</p>\n",
+				"content_text": "Have you ever wondered how to run websites as standalone apps in Linux? I recently discovered a fantastic application for this purpose: [Webapp Manager](http://packages.linuxmint.com/pool/main/w/webapp-manager/).\r\n\r\nThis app is a game-changer. It's incredibly user-friendly and everything works seamlessly right from the start.\r\n\r\nHere's how you can get started:\r\n\r\n1. Download the [.deb file](http://packages.linuxmint.com/pool/main/w/webapp-manager/).\r\n2. Run the command `sudo dpkg -i webapp_manager*.deb` in your terminal.\r\n3. Open \"Web apps\" and create your new app.\r\n\r\nAnd voilà! It's that simple. Webapp Manager makes the process effortless and everything just works perfectly out of the box.\r\n",
+				"date_published": "2023-12-22T20:13:20+01:00",
+				"url": "https://klippel.se/2023/12/22/running-websites-as.html",
+				"tags": ["note to self"]
+			},
+			{
+				"id": "http://alexander.micro.blog/2023/12/22/recently-i-purchased.html",
+				
+				"content_html": "<p>Recently, I purchased a pair of barefoot shoes, the <a href=\"https://www.baer-shoes.com/jason-1150-289-06-0/\">Bär Jason</a>. These shoes are definitely among the top purchases I&rsquo;ve made in 2023. They&rsquo;re warm, comfortable, and embody everything I expect from a barefoot shoe.</p>\n",
+				"content_text": "Recently, I purchased a pair of barefoot shoes, the [Bär Jason](https://www.baer-shoes.com/jason-1150-289-06-0/). These shoes are definitely among the top purchases I've made in 2023. They're warm, comfortable, and embody everything I expect from a barefoot shoe.\n",
+				"date_published": "2023-12-22T19:52:09+01:00",
+				"url": "https://klippel.se/2023/12/22/recently-i-purchased.html"
+			},
+			{
 				"id": "http://alexander.micro.blog/2023/12/22/link-friday-its.html",
 				"title": "Link friday #002 - It's Friday and Time for Some Links! 🌐✨",
 				"content_html": "<p>Below are some curated links I&rsquo;ve found on the internet during the last week worth visiting:</p>\n<ol>\n<li>📖 <a href=\"https://harsh-darji.medium.com/10-visuals-that-will-teach-you-more-than-a-300-page-self-help-book-7cf6f92ebb94\"><strong>10 visuals that will teach you more than a 300-page self-help book</strong></a></li>\n<li>🧠 <a href=\"https://altern.ai\"><strong>Altern - Find almost anything related to AI</strong></a></li>\n<li>🎵 <a href=\"https://mikrotakt.app\"><strong>AI-driven music track separation</strong></a></li>\n<li>🍽️ <a href=\"https://littlecook.io\"><strong>Turn unused ingredients into delicious new dishes</strong></a></li>\n<li>📻 <a href=\"https://radio.garden\"><strong>What radio channel is the best in the world?</strong></a></li>\n<li>🌍 <a href=\"https://european-alternatives.eu\"><strong>European alternatives for digital products</strong></a></li>\n<li>🎮 <a href=\"https://whichipedia.com\"><strong>Game - which Wikipedia page is longer?</strong></a></li>\n<li>🧘 <a href=\"https://blog.nateliason.com/p/how-to-get-over-the-fear-of-creating\"><strong>How to Get Over the Fear of Creating Things</strong></a></li>\n<li>📺 <a href=\"https://tv-minder.com\"><strong>Track When Your Favorite Shows Are Airing</strong></a></li>\n<li>😞 <a href=\"https://atomiclearnings.substack.com/p/32-how-to-live-a-miserable-life\"><strong>How to Live a Miserable Life</strong></a></li>\n<li>🔥 <a href=\"https://lifehacker.com/all-the-ways-you-re-risking-a-house-fire-without-reali-1850267641\"><strong>All the Ways You’re Risking a House Fire</strong></a></li>\n<li>🐦 <a href=\"https://www.vox.com/even-better/23641271/beginners-guide-bird-watching-birding\"><strong>The Beginner’s Guide to Bird Watching</strong></a></li>\n<li>🎶 <a href=\"https://thisbandphotodoesntexist.com\"><strong>This Band Does Not Exist</strong></a></li>\n<li>🎲 <a href=\"https://www.perthirtysix.com/essay/wordle-solutions-visualized\"><strong>Every Possible Wordle Solution Visualized</strong></a></li>\n<li>🗣️ <a href=\"https://debliu.substack.com/p/tell-people-what-you-want\"><strong>Tell People What You Want</strong></a></li>\n<li>⏰ <a href=\"https://chronologyclock.com\"><strong>Chronology Clock</strong></a></li>\n<li>🍽️ <a href=\"https://www.eater.com/23650936/questions-to-ask-about-menu-waiter-better-restaurant-meal\"><strong>5 Questions to Ask to Get a Better Restaurant Meal</strong></a></li>\n<li>🔬 <a href=\"https://joshmisc.substack.com/p/how-to-see-through-bad-scientific\"><strong>How to See Through Bad Scientific Studies</strong></a></li>\n<li>📡 <a href=\"https://mastofeed.org\"><strong>Send RSS to Mastodon</strong></a></li>\n</ol>\n",
