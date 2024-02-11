@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://alexander.micro.blog/2024/02/11/on-a-scale.html",
+				
+				"content_html": "<p>On a scale from 1 to 10, how much of a cyborg are you? 🤖 I have two chip implants, but I just use one of them to enter my gym. 💪</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "On a scale from 1 to 10, how much of a cyborg are you? 🤖 I have two chip implants, but I just use one of them to enter my gym. 💪\r\n\r\n<img src=\"uploads/2024/cyborg2.gif\" width=\"300\" height=\"533\" alt=\"\">\n",
+				"date_published": "2024-02-11T15:05:27+01:00",
+				"url": "https://klippel.se/2024/02/11/on-a-scale.html",
+				"tags": ["photos","notes"]
+			},
+			{
+				"id": "http://alexander.micro.blog/2024/02/05/finished-reading-artemis.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780553448122\">Artemis</a> by Andy Weir 📚\n★★★★☆</p>\n",
+				"content_text": "Finished reading: [Artemis](https://micro.blog/books/9780553448122) by Andy Weir 📚\r\n★★★★☆\n",
+				"date_published": "2024-02-05T19:14:44+01:00",
+				"url": "https://klippel.se/2024/02/05/finished-reading-artemis.html",
+				"tags": ["notes"]
+			},
+			{
 				"id": "http://alexander.micro.blog/2024/02/04/link-party.html",
 				"title": "Link party #007",
 				"content_html": "<ul>\n<li><a href=\"https://www.frontiersin.org/articles/10.3389/fpsyg.2015.01100/full\">📘 50 Psychological and Psychiatric Terms to Avoid</a></li>\n<li><a href=\"https://fedi.buzz/\">🌐 Trends in the Fediverse</a></li>\n<li><a href=\"https://podcastsaver.com/\">🎧 Easily Download Your Favorite Podcasts</a></li>\n<li><a href=\"https://lcamtuf.coredump.cx/hyper/\">💸 The Hyperinflation Gallery</a></li>\n<li><a href=\"http://wikiverse.io/\">🌌 An Interactive Visualization of Wikipedia</a></li>\n<li><a href=\"http://shadowcalculator.eu/\">🕰️ Shadow Calculator</a></li>\n<li><a href=\"https://www.soundy.com/hearing-test\">👂 Online Hearing Test</a></li>\n<li><a href=\"https://nyx.gallery/\">📸 AI-Generated Photography</a></li>\n<li><a href=\"https://stephanango.com/40-questions\">🤔 40 Questions to Ask Yourself Every Year</a></li>\n<li><a href=\"https://palette.fm/\">🎨 Colorize Photos</a></li>\n<li><a href=\"https://docs.microblog.pub/\">📝 A Self-Hosted Microblog</a></li>\n<li><a href=\"https://fs.blog/spacing-effect/\">🧠 How to Improve Learning and Maximize Retention</a></li>\n<li><a href=\"http://spaceis.cool/\">🚀 Space Is Cool</a></li>\n<li><a href=\"https://movietomovie.com/\">🎬 Connect Two Movies Game</a></li>\n<li><a href=\"https://www.escape-team.com/\">🔐 An Escape Room to Print at Home</a></li>\n<li><a href=\"https://obsoletemedia.org/\">📼 Museum of Obsolete Media</a></li>\n<li><a href=\"https://coveryourtracks.eff.org/\">🕵️ See How Trackers View Your Browser</a></li>\n<li><a href=\"https://repeater.space/\">🔲 Pattern Generator</a></li>\n<li><a href=\"https://do100things.com/\">✅ Do 100 Things</a></li>\n<li><a href=\"https://pudding.cool/games/words-against-strangers/\">🆚 Words Against Strangers</a></li>\n<li><a href=\"https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html\">🌕 If the Moon Were Only 1 Pixel</a></li>\n<li><a href=\"https://thisxdoesnotexist.com/\">❓ This Thing Does Not Exist</a></li>\n</ul>\n",
