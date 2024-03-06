@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://alexander.micro.blog/2024/03/06/ive-been-feeling.html",
+				
+				"content_html": "<p>I&rsquo;ve been feeling too drained to post lately but am slowly regaining my strength.</p>\n<p>Today, I began a thorough digital cleanup, transferring many bookmarks from my browser toolbar (synced to my Brave account) to my self-hosted <a href=\"https://github.com/sissbruecker/linkding\">Linkding</a>.</p>\n",
+				"content_text": "I've been feeling too drained to post lately but am slowly regaining my strength.\r\n\r\nToday, I began a thorough digital cleanup, transferring many bookmarks from my browser toolbar (synced to my Brave account) to my self-hosted [Linkding](https://github.com/sissbruecker/linkding).\n",
+				"date_published": "2024-03-06T18:01:59+01:00",
+				"url": "https://klippel.se/2024/03/06/ive-been-feeling.html",
+				"tags": ["notes"]
+			},
+			{
 				"id": "http://alexander.micro.blog/2024/02/25/lets-max-out.html",
 				
 				"content_html": "<p>Lets max out this winter.\nRainy as hell, but it works</p>\n<!-- raw HTML omitted -->\n",
