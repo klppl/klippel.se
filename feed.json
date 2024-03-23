@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://alexander.micro.blog/2024/03/23/went-to-see.html",
+				
+				"content_html": "<p>🍿 Went to see <em><a href=\"https://www.rottentomatoes.com/m/dune_part_two\">Dune: Part Two</a></em>. It delivered exactly as the first one did—outstanding, 5+ stars.</p>\n<p>Since the movie runs for 2 hours and 46 minutes, an app for planning eventual bathroom breaks is well needed. I highly recommend <a href=\"https://runpee.com/\">Runpee</a> for this purpose.</p>\n",
+				"content_text": "🍿 Went to see *[Dune: Part Two](https://www.rottentomatoes.com/m/dune_part_two)*. It delivered exactly as the first one did—outstanding, 5+ stars.\r\n\r\nSince the movie runs for 2 hours and 46 minutes, an app for planning eventual bathroom breaks is well needed. I highly recommend [Runpee](https://runpee.com/) for this purpose.\r\n",
+				"date_published": "2024-03-23T21:16:16+01:00",
+				"url": "https://klippel.se/2024/03/23/went-to-see.html",
+				"tags": ["notes"]
+			},
+			{
+				"id": "http://alexander.micro.blog/2024/03/19/browser-odyssey.html",
+				"title": "Browser Odyssey",
+				"content_html": "<p>Am I alone in my browser indecision? From a dedicated <strong>Chrome</strong> user (a return: unlikely), my journey has been extensive. <strong>Brave</strong> offered an aggressive approach to blocking cookies and ads, leading to its own set of issues. <strong>Firefox</strong> seemed slow, especially on Google&rsquo;s turf like YouTube, nudging me back to Brave, then to <strong>Vivaldi</strong> — appealing yet painfully slow. Now, I&rsquo;m exploring a Firefox fork, <a href=\"https://floorp.app/en/\">Floorp</a>. Let&rsquo;s see how this ride goes.</p>\n<p>Any fellow wanderers in the quest for the perfect browser?</p>\n",
+				"content_text": "Am I alone in my browser indecision? From a dedicated **Chrome** user (a return: unlikely), my journey has been extensive. **Brave** offered an aggressive approach to blocking cookies and ads, leading to its own set of issues. **Firefox** seemed slow, especially on Google's turf like YouTube, nudging me back to Brave, then to **Vivaldi** — appealing yet painfully slow. Now, I'm exploring a Firefox fork, [Floorp](https://floorp.app/en/). Let's see how this ride goes.\r\n\r\nAny fellow wanderers in the quest for the perfect browser?\r\n",
+				"date_published": "2024-03-19T21:02:35+01:00",
+				"url": "https://klippel.se/2024/03/19/browser-odyssey.html",
+				"tags": ["notes"]
+			},
+			{
 				"id": "http://alexander.micro.blog/2024/03/11/finished-reading-kontorsninja.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789146224006\">Kontorsninja</a> by Lars Berge 📚</p>\n<p>A humorous novel follows a middle manager who vanishes by covertly residing in the office storeroom. He survives by pilfering lunch boxes from the office fridge and sipping from the vending machine nightly.</p>\n",
