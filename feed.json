@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://alexander.micro.blog/2024/04/12/pwnagotchi-var-mitt.html",
+				
+				"content_html": "<p>Fan vad jag vill svära på saker nu.\nHittade min gamla rpi 0 (inte 2an) och försökte smacka på pwnagotchi. Har nog testat nu på alla sätt och jag får verkligen inte snurr på det. Det är sällan jag slänger in handduken, men nu tre dagar in med pill och jävulskap så gör jag det.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Fan vad jag vill svära på saker nu.\nHittade min gamla rpi 0 (inte 2an) och försökte smacka på pwnagotchi. Har nog testat nu på alla sätt och jag får verkligen inte snurr på det. Det är sällan jag slänger in handduken, men nu tre dagar in med pill och jävulskap så gör jag det.\n\n<img src=\"uploads/2024/img20240412204104.jpg\" width=\"600\" height=\"800\" alt=\"\">\n",
+				"date_published": "2024-04-12T20:47:18+02:00",
+				"url": "https://klippel.se/2024/04/12/pwnagotchi-var-mitt.html",
+				"tags": ["foton","anteckningar"]
+			},
+			{
+				"id": "http://alexander.micro.blog/2024/04/09/p-hotell-ter.html",
+				
+				"content_html": "<p>På hotell äter du pannkaka med nutella till frukost. Det är sen gammalt.</p>\n<p>Gör du det däremot hemma så är du ett psykfall.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "På hotell äter du pannkaka med nutella till frukost. Det är sen gammalt.\n\nGör du det däremot hemma så är du ett psykfall.\n\n<img src=\"uploads/2024/639f7f3e8c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-04-09T09:05:02+02:00",
+				"url": "https://klippel.se/2024/04/09/p-hotell-ter.html",
+				"tags": ["foton","anteckningar"]
+			},
+			{
+				"id": "http://alexander.micro.blog/2024/04/06/de-hr-pesto.html",
+				
+				"content_html": "<p>De här <a href=\"https://www.olw.se/product/chips-pesto-graddfil-ltd-18x250g/\">pesto &amp; gräddfil</a> får en väldigt stark 4 av 5 🤤🤤🤤🤤🥴</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "De här [pesto & gräddfil](https://www.olw.se/product/chips-pesto-graddfil-ltd-18x250g/) får en väldigt stark 4 av 5 🤤🤤🤤🤤🥴\n\n<img src=\"uploads/2024/picture-72.png\" width=\"469\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-04-06T20:32:30+02:00",
+				"url": "https://klippel.se/2024/04/06/de-hr-pesto.html",
+				"tags": ["foton","anteckningar"]
+			},
+			{
 				"id": "http://alexander.micro.blog/2024/04/05/kodar-eller-wordpressar.html",
 				
 				"content_html": "<p>&ldquo;Kodar&rdquo; eller &ldquo;wordpressar&rdquo; vidare på fruns yoga-sida <a href=\"https://yogisen.se\">yogisen.se</a> och lyssnar musik för att hamna i zonen.\nDå kommer den här gamla dängan upp. Mumma!</p>\n<!-- raw HTML omitted -->\n",
