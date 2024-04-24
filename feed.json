@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://alexander.micro.blog/2024/04/24/do-you-know.html",
+				
+				"content_html": "<p>Do you know Squarepusher?</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Do you know Squarepusher?\r\n\r\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/rYS8edMRgBg?si=YjQu6Si8YEGiawPr&amp;controls=0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n",
+				"date_published": "2024-04-24T15:20:43+02:00",
+				"url": "https://klippel.se/2024/04/24/do-you-know.html",
+				"tags": ["ljud","anteckningar"]
+			},
+			{
 				"id": "http://alexander.micro.blog/2024/04/12/pwnagotchi-var-mitt.html",
 				
 				"content_html": "<p>Fan vad jag vill svära på saker nu.\nHittade min gamla rpi 0 (inte 2an) och försökte smacka på pwnagotchi. Har nog testat nu på alla sätt och jag får verkligen inte snurr på det. Det är sällan jag slänger in handduken, men nu tre dagar in med pill och jävulskap så gör jag det.</p>\n<!-- raw HTML omitted -->\n",
