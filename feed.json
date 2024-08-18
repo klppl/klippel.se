@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://alexander.micro.blog/2024/08/18/idag-lste-jag.html",
+				"title": "Idag löste jag ÄNTLIGEN ett j*vla problem med webbläsaren Brave. ",
+				"content_html": "<p>Jag brukar byta webbläsare ofta av olika anledningar. Jag skulle vilja gillla Firefox och alla dess forks. Men Firefox motor lider av småstörande problem vilket gör att surfandet tar stryk, så jag återkommer alltid till en Chromium-webbläsare.</p>\n<p>Försöker verkligen gilla Vivaldi, men det är för plottrigt att det inte passar mig. Brave vill jag gilla men har återkommande problem med att den loggar ut mig från alla webbplatser konstant.</p>\n<p>Men idag löste jag äntligen problemet.</p>\n<p>Med Brave, surfa in på brave://settings/shields/filters\nKlicka ur &ldquo;Easylist Cookie&rdquo; och problemet blev löst.</p>\n<p>Får se om jag lyckas hålla mig kvar vid Brave nu eller om jag flyr till Firefox snart igen :)</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Jag brukar byta webbläsare ofta av olika anledningar. Jag skulle vilja gillla Firefox och alla dess forks. Men Firefox motor lider av småstörande problem vilket gör att surfandet tar stryk, så jag återkommer alltid till en Chromium-webbläsare.\r\n\r\nFörsöker verkligen gilla Vivaldi, men det är för plottrigt att det inte passar mig. Brave vill jag gilla men har återkommande problem med att den loggar ut mig från alla webbplatser konstant.\r\n\r\nMen idag löste jag äntligen problemet. \r\n\r\nMed Brave, surfa in på brave://settings/shields/filters\r\nKlicka ur \"Easylist Cookie\" och problemet blev löst.\r\n\r\nFår se om jag lyckas hålla mig kvar vid Brave nu eller om jag flyr till Firefox snart igen :)\n\n<img src=\"uploads/2024/bravelistor.png\" width=\"600\" height=\"369\" alt=\"\">\n",
+				"date_published": "2024-08-18T09:40:28+02:00",
+				"url": "https://klippel.se/2024/08/18/idag-lste-jag.html",
+				"tags": ["foton","anteckningar"]
+			},
+			{
 				"id": "http://alexander.micro.blog/2024/06/23/203655.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -45,8 +54,8 @@
 			{
 				"id": "http://alexander.micro.blog/2024/06/08/thorsten-flinck-lser.html",
 				
-				"content_html": "<p>Thorsten Flinck läser Vingen - En dikt av Kent Andersson</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
-				"content_text": "Thorsten Flinck läser Vingen - En dikt av Kent Andersson\n\n<audio controls=\"controls\" src=\"https://klippel.se/uploads/2024/thorsten-flinck-vingen-kent-andersson.mp3\" preload=\"metadata\"><p><a href=\"https://klippel.se/transcripts/2024/06/08/1211.html\" class=\"transcript_link\">Transcript</a>\n",
+				"content_html": "<p>Thorsten Flinck läser Vingen - En dikt av Kent Andersson</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
+				"content_text": "Thorsten Flinck läser Vingen - En dikt av Kent Andersson\n\n<audio controls=\"controls\" src=\"https://klippel.se/uploads/2024/thorsten-flinck-vingen-kent-andersson.mp3\" preload=\"metadata\">\n\n<a href=\"https://klippel.se/transcripts/2024/06/08/1211.html\" class=\"transcript_link\">Transcript</a>\n",
 				"date_published": "2024-06-08T09:33:47+02:00",
 				"url": "https://klippel.se/2024/06/08/thorsten-flinck-lser.html",
 				"tags": ["anteckningar"]
